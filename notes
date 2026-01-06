@@ -1,0 +1,12 @@
+state-> Js
+UI-> DOM
+react is used to have a connection between JS and DOM
+React is Library
+
+React
+->react-DOM(web apps)
+->react-native(mobile apps)
+
+npm create vite@latest
+
+jsx can only return one element
