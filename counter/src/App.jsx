@@ -19,6 +19,12 @@ function App() {
   const addValue=()=>{
     if(count<20){
       setCount(count+1)
+      //if you want to use setCount with previous value
+      //setCount((prevCount)=>prevCount+1)
+      //setCount((prevCount)=>prevCount+1)
+      //setCount((prevCount)=>prevCount+1)
+      //In this case, the count will be increased by 3
+
     }
   }
   const removeValue=()=>{

@@ -11,3 +11,10 @@ npm create vite@latest
 
 jsx can only return one element
 
+Virtual DOM
+compares browser tree and it's own js tree
+makes a tree like structure and changes only what need
+do not change the whole page as browser does.
+
+
+
